@@ -1,7 +1,7 @@
 {
   "name": "etrv-scan",
   "version": "0.5",
-  "image": "ImJustToNy/eco2-tools-scan",
+  "image": "ghcr.io/imjusttony/eco2-tools-scan",
   "slug": "etrv_scan",
   "description": "A tool to scan for eco2 thermostats and display mac-addresses",
   "url": "https://github.com/ImJustToNy/Eco2-Tools",

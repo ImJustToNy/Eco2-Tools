@@ -1,6 +1,6 @@
 {
   "name": "etrv-keytool",
-  "version": "0.5",
+  "version": "v0.5",
   "image": "ghcr.io/imjusttony/eco2-tools-keytool",
   "slug": "etrv_keytool",
   "description": "A tool to retrive a key from eco2 thermostats",
